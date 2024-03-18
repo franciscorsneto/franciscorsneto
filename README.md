@@ -30,4 +30,4 @@
 
 ##
 
-![snake animation](https://github.com/franciscorsneto/franciscorsneto/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/franciscorsneto/franciscorsneto/blob/output/github-contribution-grid-snake.svg)
