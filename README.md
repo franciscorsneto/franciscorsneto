@@ -29,6 +29,6 @@
 </div>
 
 ##
-<!--
-<img src="https://raw.githubusercontent.com/franciscorsneto/franciscorsneto/master/gifs/snake.gif" width="30"/>
+
+<!--<img src="https://raw.githubusercontent.com/franciscorsneto/franciscorsneto/master/gifs/snake.gif" width="30"/>
 ![Snake animation](https://github.com/franciscorsneto/franciscorsneto/blob/output/github-contribution-grid-snake.svg)-->
